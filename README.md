@@ -1,2 +1,1 @@
-# newton-s-cradle
-movement of cradle
+# NC27
